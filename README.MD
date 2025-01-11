@@ -113,7 +113,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Thank you for checking out the **Custom HTTP Webhook for Saweria Notifications on Discord** repository. Happy streaming and donating! 🚀💖
 
 ```
-### Key Adjustments:
+Key Adjustments:
 - The setup process now specifically reflects the contents of the `webhook.js` script, including details about the environment variables and server configuration.
 - The behavior of the webhook when a donation is received has been explained in detail, including the role of the bot in sending notifications.
 - Example output (JSON structure) is included to illustrate what users can expect in their notifications.
